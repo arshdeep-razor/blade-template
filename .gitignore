@@ -1,0 +1,10 @@
+.qodo
+/node_modules
+/dist
+/public/css
+.DS_Store
+.idea
+.vscode
+.history
+coverage
+playwright-storage-states
